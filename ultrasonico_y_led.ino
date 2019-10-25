@@ -4,8 +4,7 @@ float tiempo_de_espera, distancia; // creamos una variable de fotante; es decir,
 //const int ledPin1 =  2;
 //int i; 
 //const int ledPin2 =  5;  
-//const int ledPin3 =  6; 
-//const int ledPin4 =  9;
+
 #define led 2
 void setup() {
   Serial.begin (9600);   // establemos la comucicacion serial
